@@ -1,0 +1,3 @@
+<h1>Jurusan</h1>
+<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Expedita dolorum laborum, amet obcaecati modi voluptatibus totam odio ducimus natus fugit nobis sunt! Eveniet exercitationem numquam eius distinctio minus dignissimos assumenda?</p>
+<p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Dicta, ea sapiente eveniet ipsa aliquid odit modi suscipit soluta sed aut atque possimus beatae id distinctio fuga, ab incidunt, alias adipisci.</p>
